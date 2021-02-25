@@ -1,0 +1,9 @@
+dependencies:
+  -python=3
+  pip:
+    -numpy
+    -pandas
+    -scrapy
+    -matplotlib
+    -sklearn
+    -xgboost
